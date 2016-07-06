@@ -27,6 +27,7 @@ gem 'haml-rails'
 
 gem 'simple_form'
 
+gem 'devise'
 
 gem 'paperclip', '~> 5.0.0.beta1'
 
